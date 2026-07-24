@@ -1,4 +1,4 @@
-# Hi, I'm Christian Evangelista 👋
+# Hi, I'm Christian Evangelista.
 
 ## Data Engineer
 
